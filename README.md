@@ -1,7 +1,7 @@
 # easy-nmap
 simple bash script with basic n-map commands...for easy use
 
-)Ping scans the network, listing machines that respond to ping.
+1)Ping scans the network, listing machines that respond to ping.
 
 2)Full TCP port scan using with service version detection - usually my first scan, I find T4 more accurate than T5 and still "pretty quick".
 
